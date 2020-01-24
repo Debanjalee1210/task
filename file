@@ -1,0 +1,16 @@
+U-Boot 2018.09 (Dec 18 2019 - 18:39:18 +0530)
+
+DRAM:  924 MiB
+RPI 3 Model B+ (0xa020d3)
+MMC:   mmc@7e202000: 0, sdhci@7e300000: 1
+Loading Environment from FAT... *** Warning - bad CRC, using default environment
+
+In:    serial
+Out:   vidconsole
+Err:   vidconsole
+Net:   No ethernet found.
+starting USB...
+USB0:   scanning bus 0 for devices... 4 USB Device(s) found
+       scanning usb for storage devices... 0 Storage Device(s) found
+Hit any key to stop autoboot:  0 
+U-Boot> 
